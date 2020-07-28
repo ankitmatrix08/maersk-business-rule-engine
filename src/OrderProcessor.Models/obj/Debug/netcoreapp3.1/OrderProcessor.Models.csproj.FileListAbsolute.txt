@@ -1,0 +1,9 @@
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\bin\Debug\netcoreapp3.1\OrderProcessor.Models.deps.json
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\bin\Debug\netcoreapp3.1\OrderProcessor.Models.dll
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\bin\Debug\netcoreapp3.1\OrderProcessor.Models.pdb
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.csproj.CoreCompileInputs.cache
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.AssemblyInfoInputs.cache
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.AssemblyInfo.cs
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.dll
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.pdb
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Models\obj\Debug\netcoreapp3.1\OrderProcessor.Models.csprojAssemblyReference.cache

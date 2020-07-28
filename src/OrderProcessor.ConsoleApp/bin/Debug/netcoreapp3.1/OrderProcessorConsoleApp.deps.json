@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "OrderProcessorConsoleApp/1.0.0": {
+        "dependencies": {
+          "OrderProcessor.Domain": "1.0.0",
+          "OrderProcessor.Models": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessorConsoleApp.dll": {}
+        }
+      },
+      "OrderProcessor.Domain/1.0.0": {
+        "dependencies": {
+          "OrderProcessor.Models": "1.0.0"
+        },
+        "runtime": {
+          "OrderProcessor.Domain.dll": {}
+        }
+      },
+      "OrderProcessor.Models/1.0.0": {
+        "runtime": {
+          "OrderProcessor.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrderProcessorConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessor.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrderProcessor.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

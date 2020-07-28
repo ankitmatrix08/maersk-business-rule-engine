@@ -1,0 +1,12 @@
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\bin\Debug\netcoreapp3.1\OrderProcessor.Domain.deps.json
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\bin\Debug\netcoreapp3.1\OrderProcessor.Domain.dll
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\bin\Debug\netcoreapp3.1\OrderProcessor.Domain.pdb
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.csproj.CoreCompileInputs.cache
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.AssemblyInfoInputs.cache
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.AssemblyInfo.cs
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.dll
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.pdb
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.csprojAssemblyReference.cache
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\bin\Debug\netcoreapp3.1\OrderProcessor.Models.dll
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\bin\Debug\netcoreapp3.1\OrderProcessor.Models.pdb
+F:\OrderProcessor\OrderProcessor\src\OrderProcessor.Domain\obj\Debug\netcoreapp3.1\OrderProcessor.Domain.csproj.CopyComplete
